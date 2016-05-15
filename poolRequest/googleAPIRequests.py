@@ -1,6 +1,7 @@
 import requests
 import logging
-from sserver import apiKey
+#from sserver import apiKey
+apiKey ='AIzaSyAoUGzwRMXGeO9X8_QApT6cB85FOV2ec9Y'
 
 
 def getDirections(origin, desitnation ,modeOfTransport, waypoints):

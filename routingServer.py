@@ -4,7 +4,7 @@ import os
 import socket
 import logging
 from poolRequest.poolRequest import handlePoolRequest
-from testclient import testClient
+#from testclient import testClient
 import thread
 import threading
 port =random.randint(4000, 9999)
